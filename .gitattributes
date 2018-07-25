@@ -1,0 +1,2 @@
+*.txt. filter=lfs diff=lfs merge=lfs -text
+rockyou_wpa2.txt filter=lfs diff=lfs merge=lfs -text
